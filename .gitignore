@@ -1,0 +1,5 @@
+# IDE设置
+/.idea/
+# 编译中间文件
+/build
+/cmake-build-debug/
